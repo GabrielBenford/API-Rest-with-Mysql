@@ -1,0 +1,5 @@
+django-request
+pytest
+flask
+mysql-connector-python
+python-dotenv

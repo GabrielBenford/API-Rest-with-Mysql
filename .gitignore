@@ -1,0 +1,11 @@
+Bot.Lourii.py
+Routine.py
+login_page.py
+test_login.py
+.env
+*.env
+**/.env
+.venv
+Websites
+website_login.py
+Bots
